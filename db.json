@@ -1,0 +1,1 @@
+{"departamentos":[{"id":"1","nombre":"apartamento 1","activo":"1"},{"id":"2","nombre":"departamento 2","activo":"1"}],"grupos":[{"id":"1","nombre":"Sevilla Mayo2","fecha_inicio":"2019-05-22","activo":"1","notificaciones":"1"},{"id":"2","nombre":"Alicante Mayo","fecha_inicio":"2019-05-21","activo":"1","notificaciones":"1"}]}
